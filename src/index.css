@@ -11,12 +11,12 @@
   --bottom-nav-height: 65px;
 }
 
-[data-theme='dark'] {
+/* [data-theme='dark'] {
   --bg-color: #121212;
   --text-color: #f8f9fa;
   --card-bg: #1e1e1e;
   --border-color: #333;
-}
+} */
 
 body {
   background-color: var(--bg-color);
